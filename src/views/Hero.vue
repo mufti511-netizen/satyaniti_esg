@@ -26,7 +26,7 @@
         </div>
 
         <h1 class="hero-title anim-item" style="--d:90ms">
-          Katalisator Utama Pembiayaan Hijau &amp;
+          Katalisator Utama Green Financing &amp;
           <em>Keberlanjutan Korporasi</em> di Indonesia.
         </h1>
 
