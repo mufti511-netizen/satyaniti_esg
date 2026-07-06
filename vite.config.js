@@ -4,7 +4,7 @@ import { fileURLToPath, URL } from 'node:url';
 
 export default defineConfig({
   plugins: [vue()],
-  base: 'https://github.com/mufti511-netizen/satyaniti_esg',
+  base: '/satyaniti_esg/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
